@@ -1,3 +1,3 @@
 print('eee')
 print('nnnnnn')
-print('Yes')
+print('res')
