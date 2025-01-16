@@ -1,3 +1,1 @@
-print('eee')
-print('nnnnnn')
-print('yyyyy')
+print('Hello, World!')
