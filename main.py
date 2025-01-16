@@ -1,2 +1,2 @@
 print('eee')
-print('yyyyyyyy')
+print('nnnnnn')
